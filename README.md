@@ -2,7 +2,7 @@
 
 # Hi, I'm Anamol Adhikari 👋
 
-### Software Engineer · Builder · PhD Researcher
+### Software Engineer · Builder
 
 I build reliable web products, automation-heavy systems, and applied AI experiments — with a focus on turning messy real-world inputs into software that feels simple to use.
 
@@ -17,12 +17,9 @@ I build reliable web products, automation-heavy systems, and applied AI experime
 
 I'm a software engineer who enjoys building products end-to-end: architecture, APIs, resilient integrations, testing, deployment, and the UI details that make a product feel finished.
 
-Alongside engineering, I'm pursuing PhD research in **adaptive phishing detection**, exploring deep reinforcement learning, adversarial learning, and model generalization against evolving phishing attacks.
-
 My recent personal work is increasingly product-focused — real applications with authentication, responsive interfaces, edge deployment, failure handling, lifecycle/state management, and thoughtful UX rather than isolated demos.
 
 - 🔭 **Currently building:** [NINETY](https://github.com/AnamolAdhikari/Ninety), a modern football matchday web experience
-- 🧠 **Researching:** adaptive phishing detection using DRL and adversarial machine learning
 - 🧪 **Engineering interests:** distributed web systems, resilient integrations, test automation, AI/ML, and developer tooling
 - ⚡ **I like:** taking an idea from “what if?” to a deployed product people can actually use
 
@@ -59,16 +56,6 @@ A premium web experience for a Savannah, Georgia gift-shop business, designed as
 The work focuses on responsive design, visual storytelling, accessibility, SEO-ready structure, location discovery, performance, and an architecture that can later expand into catalog and commerce features.
 
 **Focus:** TypeScript · responsive UI · accessibility · SEO · product design
-
----
-
-### 🤖 Adaptive Phishing Detection — PhD research
-
-Research into phishing detection systems that can adapt to changing attacks rather than relying only on static classification.
-
-My work compares deep-learning baselines with deep reinforcement learning, adversarial training, uncertainty/defer behavior, cross-dataset generalization, and robustness to transformations such as homoglyph attacks.
-
-**Research areas:** Deep Reinforcement Learning · adversarial ML · CNN/BERT baselines · phishing URL detection · generalization
 
 ---
 
