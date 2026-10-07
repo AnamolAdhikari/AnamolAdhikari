@@ -4,7 +4,7 @@
 
 ### Software Engineer · Builder
 
-I build reliable web products, automation-heavy systems, and applied AI experiments — with a focus on turning messy real-world inputs into software that feels simple to use.
+I build reliable web products, automation-heavy systems, and applied AI experiments · with a focus on turning messy real-world inputs into software that feels simple to use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnamolAdhikari-181717?logo=github)](https://github.com/AnamolAdhikari)
 [![NINETY](https://img.shields.io/badge/Current_Project-NINETY-0b0f14)](https://github.com/AnamolAdhikari/Ninety)
@@ -17,7 +17,7 @@ I build reliable web products, automation-heavy systems, and applied AI experime
 
 I'm a software engineer who enjoys building products end-to-end: architecture, APIs, resilient integrations, testing, deployment, and the UI details that make a product feel finished.
 
-My recent personal work is increasingly product-focused — real applications with authentication, responsive interfaces, edge deployment, failure handling, lifecycle/state management, and thoughtful UX rather than isolated demos.
+My recent personal work is increasingly product-focused · real applications with authentication, responsive interfaces, edge deployment, failure handling, lifecycle/state management, and thoughtful UX rather than isolated demos.
 
 - 🔭 **Currently building:** [NINETY](https://github.com/AnamolAdhikari/Ninety), a modern football matchday web experience
 - 🧪 **Engineering interests:** distributed web systems, resilient integrations, test automation, AI/ML, and developer tooling
@@ -27,9 +27,9 @@ My recent personal work is increasingly product-focused — real applications wi
 
 ## 🚀 Featured work
 
-### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) — **Active development**
+### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · **Active development**
 
-A modern football matchday application built around the complete fixture lifecycle — upcoming, live, finished, and post-match.
+A modern football matchday application built around the complete fixture lifecycle · upcoming, live, finished, and post-match.
 
 **What makes it interesting:** NINETY treats external data as unreliable by design. It includes defensive match-state handling, graceful degradation, demand-loaded lineups, event timelines, saved matches, reminders, playback recovery UX, responsive mobile/desktop experiences, and edge deployment.
 
@@ -39,7 +39,7 @@ A modern football matchday application built around the complete fixture lifecyc
 
 ---
 
-### 🎬 BINGE — Private product project
+### 🎬 BINGE · Private product project
 
 A personal movie, TV, and anime discovery experience with a polished streaming-style interface.
 
@@ -49,7 +49,7 @@ Built around content discovery, cast exploration, search, continue-watching stat
 
 ---
 
-### 🛍️ Something For Everyone — Private client-style build
+### 🛍️ Something For Everyone · Private client-style build
 
 A premium web experience for a Savannah, Georgia gift-shop business, designed as the first phase of a broader digital storefront.
 
@@ -103,6 +103,6 @@ That usually means:
 
 <div align="center">
 
-### Building software that survives the real world — not just the demo.
+### Building software that survives the real world · not just the demo.
 
 </div>
