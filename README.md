@@ -4,58 +4,67 @@
 
 ### Software Engineer · Builder
 
-I build reliable web products, automation-heavy systems, and applied AI experiments · with a focus on turning messy real-world inputs into software that feels simple to use.
+I build reliable web products, automation-heavy systems, and applied AI projects — with a focus on turning messy real-world problems into software that feels simple to use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnamolAdhikari-181717?logo=github)](https://github.com/AnamolAdhikari)
-[![NINETY](https://img.shields.io/badge/Current_Project-NINETY-0b0f14)](https://github.com/AnamolAdhikari/Ninety)
+[![Current Project](https://img.shields.io/badge/Current_Project-NINETY-0b0f14)](https://github.com/AnamolAdhikari/Ninety)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 🚀 Featured projects
 
-I'm a software engineer who enjoys building products end-to-end: architecture, APIs, resilient integrations, testing, deployment, and the UI details that make a product feel finished.
+### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · Active development
 
-My recent personal work is increasingly product-focused · real applications with authentication, responsive interfaces, edge deployment, failure handling, lifecycle/state management, and thoughtful UX rather than isolated demos.
+A modern football matchday application built around the full fixture journey — upcoming, live, finished, and post-match. It focuses on resilient match-state handling, match events, lineups, saved matches, reminders, responsive UX, and graceful failure states.
 
-- 🔭 **Currently building:** [NINETY](https://github.com/AnamolAdhikari/Ninety), a modern football matchday web experience
-- 🧪 **Engineering interests:** distributed web systems, resilient integrations, test automation, AI/ML, and developer tooling
-- ⚡ **I like:** taking an idea from “what if?” to a deployed product people can actually use
+**Stack:** TypeScript · React 19 · Vite/Vinext · Cloudflare Workers · Zod
+
+> Built as a complete product rather than a static sports-data demo: state changes, unreliable dependencies, recovery behavior, and mobile/desktop UX are first-class concerns.
 
 ---
 
-## 🚀 Featured work
+### 🤖 [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) · AI / NLP
 
-### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · **Active development**
+An AI-powered ATS resume analysis tool that compares a resume with a job description, calculates an ATS compatibility score, surfaces missing keywords, and provides actionable improvement suggestions.
 
-A modern football matchday application built around the complete fixture lifecycle · upcoming, live, finished, and post-match.
+<p align="center">
+  <a href="https://github.com/AnamolAdhikari/ResuMatch">
+    <img src="https://raw.githubusercontent.com/AnamolAdhikari/ResuMatch/master/assets/resumatch-ui-modern.png" alt="ResuMatch interface" width="88%" />
+  </a>
+</p>
 
-**What makes it interesting:** NINETY treats external data as unreliable by design. It includes defensive match-state handling, graceful degradation, demand-loaded lineups, event timelines, saved matches, reminders, playback recovery UX, responsive mobile/desktop experiences, and edge deployment.
-
-**Stack:** TypeScript · React 19 · Vite/Vinext · Cloudflare Workers · Zod · Node testing
-
-> Current focus: reliability, live-state accuracy, richer match-center behavior, post-match UX, and mobile polish.
+**Stack:** Python · Streamlit · NLP · spaCy · sentence-transformers · Hugging Face
 
 ---
 
 ### 🎬 BINGE · Private product project
 
-A personal movie, TV, and anime discovery experience with a polished streaming-style interface.
+A personal movie, TV, and anime discovery experience with a polished streaming-style interface. The project explores content discovery, cast pages, search, continue-watching state, responsive interactions, authentication, and a cleaner viewing experience.
 
-Built around content discovery, cast exploration, search, continue-watching state, responsive interactions, authentication, and a cleaner viewing experience. The source is private, but the project reflects my current focus on building complete consumer-facing products rather than one-off demos.
-
-**Focus:** React-style product UX · media discovery · state persistence · responsive design · authentication
+**Focus:** consumer product UX · media discovery · state persistence · responsive design · authentication
 
 ---
 
 ### 🛍️ Something For Everyone · Private client-style build
 
-A premium web experience for a Savannah, Georgia gift-shop business, designed as the first phase of a broader digital storefront.
-
-The work focuses on responsive design, visual storytelling, accessibility, SEO-ready structure, location discovery, performance, and an architecture that can later expand into catalog and commerce features.
+A premium web experience for a Savannah gift-shop business, designed as the first phase of a broader digital storefront. The work emphasizes visual storytelling, responsive design, location discovery, accessibility, performance, and SEO-ready structure.
 
 **Focus:** TypeScript · responsive UI · accessibility · SEO · product design
+
+---
+
+## 🧪 Other engineering work
+
+| Project | What it explores |
+| --- | --- |
+| 🏗️ [Terraform Study](https://github.com/AnamolAdhikari/terraform_study) | Infrastructure as Code, Terraform workflows, state, modules, and cloud infrastructure concepts |
+| 💬 [ChatApp](https://github.com/AnamolAdhikari/ChatApp) | Java application development and chat/client communication concepts |
+| ✅ [To-Do List Django](https://github.com/AnamolAdhikari/To-Do-List-Django) | Django web application fundamentals and everyday CRUD-style product behavior |
+| 📱 [TicTacToe](https://github.com/AnamolAdhikari/TicTacToe) | Android application development with Kotlin |
+| 🌐 [Portfolio](https://github.com/AnamolAdhikari/anamoladhikari.github.io) | Earlier frontend work and personal portfolio development |
+| 🧮 [Calculator](https://github.com/AnamolAdhikari/Calculator) | Foundational application logic and UI work |
 
 ---
 
@@ -70,6 +79,7 @@ The work focuses on responsive design, visual storytelling, accessibility, SEO-r
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -77,7 +87,7 @@ The work focuses on responsive design, visual storytelling, accessibility, SEO-r
 
 </div>
 
-**I work across:** backend engineering, API integration, automated testing, CI/CD, responsive frontend development, cloud/edge deployment, data-driven applications, and applied machine learning.
+I work across backend engineering, API integration, automated testing, CI/CD, responsive frontend development, cloud/edge deployment, data-driven applications, and applied machine learning.
 
 ---
 
@@ -85,24 +95,12 @@ The work focuses on responsive design, visual storytelling, accessibility, SEO-r
 
 I care about more than the happy path. The projects I enjoy most have changing state, unreliable dependencies, real users, and edge cases that force good engineering decisions.
 
-That usually means:
-
 **Design the state → isolate integrations → validate inputs → fail gracefully → test critical behavior → ship → observe → improve.**
-
----
-
-## 📌 More projects
-
-| Project | What it explores |
-| --- | --- |
-| [ChatApp](https://github.com/AnamolAdhikari/ChatApp) | Java application development and client communication concepts |
-| [To-Do List Django](https://github.com/AnamolAdhikari/To-Do-List-Django) | Python/Django web application fundamentals |
-| [Portfolio](https://github.com/AnamolAdhikari/anamoladhikari.github.io) | Earlier frontend and personal portfolio work |
 
 ---
 
 <div align="center">
 
-### Building software that survives the real world · not just the demo.
+### Building software that survives the real world — not just the demo.
 
 </div>
