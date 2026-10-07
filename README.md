@@ -23,6 +23,12 @@ A modern football matchday application built around the full fixture journey —
 
 > Built as a complete product rather than a static sports-data demo: state changes, unreliable dependencies, recovery behavior, and mobile/desktop UX are first-class concerns.
 
+<p align="center">
+  <a href="https://github.com/AnamolAdhikari/Ninety">
+    <img src="https://raw.githubusercontent.com/AnamolAdhikari/AnamolAdhikari/main/assets/ninety-preview.svg" alt="NINETY football matchday interface" width="88%" />
+  </a>
+</p>
+
 ---
 
 ### 🤖 [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) · AI / NLP
