@@ -50,6 +50,8 @@ A football application for the full match journey — discovering fixtures, foll
 
 **Stack:** TypeScript · React 19 · Vinext/Vite · Cloudflare Workers · Zod · Node-based tests
 
+<p align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/ninety-premium-showcase.svg" width="96%" alt="NINETY premium matchday engineering showcase" /></a></p>
+
 <!-- NINETY showcase: two existing screenshots, no new binary asset required. -->
 <table>
   <tr>
@@ -93,6 +95,8 @@ A responsive, design-led website for a Savannah gift-shop business, with emphasi
 
 ## Engineering expertise
 
+<p align="center"><img src="assets/engineering-expertise-premium.svg" width="96%" alt="Engineering expertise across full-stack, SDET, UI UX, security, cloud, and data integrations" /></p>
+
 | Focus | What I work on |
 | --- | --- |
 | **Full-stack & backend** | React, TypeScript, Java, Spring Boot, Python, FastAPI, Node.js, API integrations |
@@ -121,19 +125,7 @@ The tools below span professional engineering work, personal projects, and conti
 
 ## How I engineer software
 
-```text
-Understand the problem
-        ↓
-Design clear boundaries
-        ↓
-Build & validate
-        ↓
-Automate critical tests
-        ↓
-Deploy & observe
-        ↓
-Improve from feedback
-```
+<p align="center"><img src="assets/engineering-process-premium.svg" width="96%" alt="Engineering process: design, build, test, deploy, observe" /></p>
 
 **Reliability first.** Validate external data, make failures understandable, and treat edge cases as part of the product rather than afterthoughts.
 
