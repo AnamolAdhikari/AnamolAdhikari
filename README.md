@@ -7,7 +7,7 @@
 I build reliable web products, automation-heavy systems, and applied AI projects — with a focus on turning messy real-world problems into software that feels simple to use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnamolAdhikari-181717?logo=github)](https://github.com/AnamolAdhikari)
-[![Current Project](https://img.shields.io/badge/Current_Project-NINETY-0b0f14)](https://github.com/AnamolAdhikari/Ninety)
+[![BINGE](https://img.shields.io/badge/Featured-BINGE-0b0f14)](https://github.com/AnamolAdhikari/binge) [![NINETY](https://img.shields.io/badge/Featured-NINETY-0b0f14)](https://github.com/AnamolAdhikari/Ninety)
 
 </div>
 
@@ -74,11 +74,13 @@ An AI-powered ATS resume analysis tool that compares a resume with a job descrip
 
 ---
 
-### 🛍️ Something For Everyone · Private client-style build
+### 🛍️ [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone) · Business website
 
 A premium web experience for a Savannah gift-shop business, designed as the first phase of a broader digital storefront. The work emphasizes visual storytelling, responsive design, location discovery, accessibility, performance, and SEO-ready structure.
 
 **Focus:** TypeScript · responsive UI · accessibility · SEO · product design
+
+[View repository](https://github.com/AnamolAdhikari/something-for-everyone)
 
 ---
 
