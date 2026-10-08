@@ -1,117 +1,91 @@
 <div align="center">
 
-# Anamol Adhikari
+![Anamol Adhikari — Software Engineer](assets/profile-banner.svg)
 
-### Software Engineer · Full-Stack Development · Quality Engineering
-
-Building thoughtful products and dependable systems — from interactive web experiences to backend services, automation, and cloud deployments.
+Building reliable applications, intuitive interfaces, and automation that makes software easier to ship and maintain.
 
 [![BINGE](https://img.shields.io/badge/Explore-BINGE-111827?style=for-the-badge)](https://github.com/AnamolAdhikari/binge)
 [![NINETY](https://img.shields.io/badge/Explore-NINETY-1D4ED8?style=for-the-badge)](https://github.com/AnamolAdhikari/Ninety)
-[![Repositories](https://img.shields.io/badge/View-All_Projects-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamolAdhikari?tab=repositories)
+[![Projects](https://img.shields.io/badge/All-Projects-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamolAdhikari?tab=repositories)
 
 </div>
 
----
+## About & focus
 
-### What I work on
+I'm a software engineer working across **full-stack development, backend services, test automation, and cloud deployments**. I enjoy taking products from early prototypes to responsive, reliable applications — with particular attention to edge cases, performance, and maintainability.
 
-- **Full-stack engineering:** React, TypeScript, Java, Spring Boot, Python, and API-driven applications.
-- **Quality & reliability:** Test automation, integration testing, CI/CD, and resilient application behavior.
-- **Cloud & DevOps:** Cloudflare deployments, infrastructure tooling, containers, and evolving observability practices.
-- **Product thinking:** Fast, responsive interfaces with clear states, useful interactions, and attention to real-world edge cases.
-
-**Featured work:** [BINGE](https://github.com/AnamolAdhikari/binge) · [NINETY](https://github.com/AnamolAdhikari/Ninety) · [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) · [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone)
+**What matters to me:** Clear architecture · Practical automation · Resilient integrations · Thoughtful product design
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### 🎬 [BINGE](https://github.com/AnamolAdhikari/binge) · Active product project
+### 🎬 [BINGE](https://github.com/AnamolAdhikari/binge) — Media discovery experience
 
-BINGE started with a simple idea: I wanted a movie, TV, and anime experience that felt less like searching through a database and more like opening something I would actually want to use every night. I kept building on that idea — faster discovery, richer title pages, cast exploration, instant search, watch-state persistence, My List, continue watching, profiles, authentication, and a responsive interface that still feels cinematic on a smaller screen.
+A personal movie, TV, and anime interface designed around fast discovery, rich title and cast pages, search, personal lists, and continue-watching experiences.
 
-**Stack:** React 19 · TypeScript · Vite 6 · Cloudflare Workers · TMDB-powered discovery · persistent client state · responsive CSS
+**Engineering highlights:** Component-driven UI · Persistent product state · Responsive interactions · Cloudflare deployment
 
-> What I enjoy most about BINGE is the product work. Tiny details — how quickly search responds, where you land after opening a title, whether your progress is remembered, how a poster rail moves, and how the interface behaves on mobile — are treated as part of the experience rather than afterthoughts.
-
-<p align="center">
-  <img src="assets/3.jpg" alt="BINGE interface preview" width="88%" />
-</p>
+**Stack:** React 19 · TypeScript · Vite · Cloudflare Workers · TMDB-backed metadata
 
 <p align="center">
-  <img src="assets/4.jpg" alt="BINGE browsing experience" width="43%" />
-  <img src="assets/5.jpg" alt="BINGE title experience" width="43%" />
+  <a href="https://github.com/AnamolAdhikari/binge"><img src="assets/3.jpg" width="88%" alt="BINGE main application interface" /></a>
 </p>
+
+<details>
+<summary><strong>More BINGE screenshots</strong></summary>
+<p align="center">
+  <img src="assets/4.jpg" width="43%" alt="BINGE browsing screen" />
+  <img src="assets/5.jpg" width="43%" alt="BINGE title detail screen" />
+  <img src="assets/6.jpg" width="28%" alt="BINGE discovery interface" />
+  <img src="assets/7.jpg" width="28%" alt="BINGE media interface" />
+  <img src="assets/8.jpg" width="28%" alt="BINGE responsive interface" />
+</p>
+</details>
+
+### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) — Football matchday experience
+
+A football application built around the full match journey: upcoming fixtures, live match context, events, lineups, and post-match information.
+
+**Engineering highlights:** Lifecycle-aware UI · Defensive data handling · Graceful fallback states · Edge deployment
+
+**Stack:** TypeScript · React 19 · Vinext/Vite · Cloudflare Workers · Zod · Node-based tests
 
 <p align="center">
-  <img src="assets/6.jpg" alt="BINGE discovery experience" width="28%" />
-  <img src="assets/7.jpg" alt="BINGE media experience" width="28%" />
-  <img src="assets/8.jpg" alt="BINGE responsive interface" width="28%" />
+  <a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/1.jpg" width="88%" alt="NINETY football matchday interface" /></a>
 </p>
 
----
+<details>
+<summary><strong>More NINETY screenshots</strong></summary>
+<p align="center">
+  <img src="assets/2.jpg" width="88%" alt="NINETY match experience" />
+</p>
+<p>See the <a href="https://github.com/AnamolAdhikari/Ninety#architecture">architecture</a> and <a href="https://github.com/AnamolAdhikari/Ninety#match-lifecycle">match lifecycle</a> diagrams in the project README.</p>
+</details>
 
-### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · Active development
+### 🤖 [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) — Resume analysis with NLP
 
-NINETY grew out of wanting a football matchday page that actually feels alive. Instead of treating fixtures as rows of sports data, I built around the way a match changes throughout the day: anticipation before kickoff, live action, events and lineups during the match, and a useful finished state afterward. The goal is a fast, focused place to follow the matches I care about without the interface getting in the way.
+An ATS-oriented resume analysis tool that compares resumes with job descriptions, identifies gaps, and suggests improvements.
 
-**Stack:** TypeScript · React 19 · Vite/Vinext · Cloudflare Workers · Zod · edge persistence · server-side integrations · responsive CSS · Node-based testing
-
-> The interesting engineering is everything that happens when the happy path breaks. NINETY has to reason about changing match states, stale or incomplete upstream data, unavailable sources, delayed lineups and finished broadcasts. I care just as much about those recovery paths as I do about the polished desktop and mobile experience.
+**Stack:** Python · Streamlit · NLP · spaCy · sentence-transformers
 
 <p align="center">
-  <a href="https://github.com/AnamolAdhikari/Ninety">
-    <img src="assets/1.jpg" alt="NINETY football matchday interface" width="88%" />
-  </a>
+  <a href="https://github.com/AnamolAdhikari/ResuMatch"><img src="https://raw.githubusercontent.com/AnamolAdhikari/ResuMatch/master/assets/resumatch-ui-modern.png" width="82%" alt="ResuMatch resume analysis interface" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/2.jpg" alt="NINETY product interface" width="88%" />
-</p>
+### 🛍️ [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone) — Savannah business website
 
----
+A responsive, design-led website for a Savannah gift-shop business, with emphasis on local discovery, accessibility, visual storytelling, and performance.
 
-### 🤖 [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) · AI / NLP
+**Focus:** TypeScript · Responsive UI · Accessibility · SEO · Cloud deployment
 
-An AI-powered ATS resume analysis tool that compares a resume with a job description, calculates an ATS compatibility score, surfaces missing keywords, and provides actionable improvement suggestions.
-
-<p align="center">
-  <a href="https://github.com/AnamolAdhikari/ResuMatch">
-    <img src="https://raw.githubusercontent.com/AnamolAdhikari/ResuMatch/master/assets/resumatch-ui-modern.png" alt="ResuMatch interface" width="88%" />
-  </a>
-</p>
-
-**Stack:** Python · Streamlit · NLP · spaCy · sentence-transformers · Hugging Face
-
----
-
-### 🛍️ [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone) · Business website
-
-A premium web experience for a Savannah gift-shop business, designed as the first phase of a broader digital storefront. The work emphasizes visual storytelling, responsive design, location discovery, accessibility, performance, and SEO-ready structure.
-
-**Focus:** TypeScript · responsive UI · accessibility · SEO · product design
-
-[View repository](https://github.com/AnamolAdhikari/something-for-everyone)
-
----
-
-## 🧪 Other engineering work
-
-| Project | What it explores |
-| --- | --- |
-| 🏗️ [Terraform Study](https://github.com/AnamolAdhikari/terraform_study) | Infrastructure as Code, Terraform workflows, state, modules, and cloud infrastructure concepts |
-| 💬 [ChatApp](https://github.com/AnamolAdhikari/ChatApp) | Java application development and chat/client communication concepts |
-| ✅ [To-Do List Django](https://github.com/AnamolAdhikari/To-Do-List-Django) | Django web application fundamentals and everyday CRUD-style product behavior |
-| 📱 [TicTacToe](https://github.com/AnamolAdhikari/TicTacToe) | Android application development with Kotlin |
-| 🌐 [Portfolio](https://github.com/AnamolAdhikari/anamoladhikari.github.io) | Earlier frontend work and personal portfolio development |
-| 🧮 [Calculator](https://github.com/AnamolAdhikari/Calculator) | Foundational application logic and UI work |
+[Explore the repository →](https://github.com/AnamolAdhikari/something-for-everyone)
 
 ---
 
 ## 🧰 Engineering toolbox
 
-A snapshot of technologies across my software engineering work, projects, and ongoing learning. Some tools are part of my current stack; others are technologies I'm exploring or incorporating into future projects.
+Technologies from my engineering work, personal projects, and continued learning. Not every tool listed is deployed in the featured applications.
 
 ### Languages & frameworks
 
@@ -180,21 +154,32 @@ A snapshot of technologies across my software engineering work, projects, and on
 
 </div>
 
-**Engineering focus:** Backend services · API integration · test automation · CI/CD · cloud and container platforms · observability · infrastructure as code · resilient web applications.
+---
 
+## Engineering approach
+
+**Design for real-world behavior.** Keep integration boundaries clear, validate data, test critical paths, and make failures understandable. Use CI/CD and observability to improve the system as it evolves.
+
+`Plan → Build → Test → Deploy → Observe → Improve`
 
 ---
 
-## 🧭 How I build
+## More projects
 
-I care about more than the happy path. The projects I enjoy most have changing state, unreliable dependencies, real users, and edge cases that force good engineering decisions.
-
-**Design the state → isolate integrations → validate inputs → fail gracefully → test critical behavior → ship → observe → improve.**
-
----
+| Repository | Area |
+| --- | --- |
+| [Terraform Study](https://github.com/AnamolAdhikari/terraform_study) | Infrastructure as Code learning |
+| [ChatApp](https://github.com/AnamolAdhikari/ChatApp) | Java application development |
+| [To-Do List Django](https://github.com/AnamolAdhikari/To-Do-List-Django) | Django and CRUD workflows |
+| [TicTacToe](https://github.com/AnamolAdhikari/TicTacToe) | Android / Kotlin |
+| [Portfolio](https://github.com/AnamolAdhikari/anamoladhikari.github.io) | Frontend portfolio work |
 
 <div align="center">
 
-### Building software that survives the real world — not just the demo.
+---
+
+**Build useful things. Test what matters. Keep improving.**
+
+[All repositories](https://github.com/AnamolAdhikari?tab=repositories)
 
 </div>
