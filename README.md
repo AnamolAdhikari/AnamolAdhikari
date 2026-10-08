@@ -1,15 +1,27 @@
 <div align="center">
 
-# Hi, I'm Anamol Adhikari 👋
+# Anamol Adhikari
 
-### Software Engineer · Builder
+### Software Engineer · Full-Stack Development · Quality Engineering
 
-I build reliable web products, automation-heavy systems, and applied AI projects — with a focus on turning messy real-world problems into software that feels simple to use.
+Building thoughtful products and dependable systems — from interactive web experiences to backend services, automation, and cloud deployments.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnamolAdhikari-181717?logo=github)](https://github.com/AnamolAdhikari)
-[![BINGE](https://img.shields.io/badge/Featured-BINGE-0b0f14)](https://github.com/AnamolAdhikari/binge) [![NINETY](https://img.shields.io/badge/Featured-NINETY-0b0f14)](https://github.com/AnamolAdhikari/Ninety)
+[![BINGE](https://img.shields.io/badge/Explore-BINGE-111827?style=for-the-badge)](https://github.com/AnamolAdhikari/binge)
+[![NINETY](https://img.shields.io/badge/Explore-NINETY-1D4ED8?style=for-the-badge)](https://github.com/AnamolAdhikari/Ninety)
+[![Repositories](https://img.shields.io/badge/View-All_Projects-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamolAdhikari?tab=repositories)
 
 </div>
+
+---
+
+### What I work on
+
+- **Full-stack engineering:** React, TypeScript, Java, Spring Boot, Python, and API-driven applications.
+- **Quality & reliability:** Test automation, integration testing, CI/CD, and resilient application behavior.
+- **Cloud & DevOps:** Cloudflare deployments, infrastructure tooling, containers, and evolving observability practices.
+- **Product thinking:** Fast, responsive interfaces with clear states, useful interactions, and attention to real-world edge cases.
+
+**Featured work:** [BINGE](https://github.com/AnamolAdhikari/binge) · [NINETY](https://github.com/AnamolAdhikari/Ninety) · [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) · [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone)
 
 ---
 
