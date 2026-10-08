@@ -28,15 +28,9 @@ A personal movie, TV, and anime interface designed around fast discovery, rich t
 
 **Stack:** React 19 · TypeScript · Vite · Cloudflare Workers · TMDB-backed metadata
 
-<table align="center" width="100%" bgcolor="#101b33">
-  <tr><td align="center" colspan="2">
-    <a href="https://github.com/AnamolAdhikari/binge"><img src="assets/binge-showcase.svg" width="100%" alt="BINGE featured project showcase" /></a>
-  </td></tr>
-  <tr>
-    <td width="50%" align="center"><img src="assets/4.jpg" width="100%" alt="BINGE featured browsing interface" /></td>
-    <td width="50%" align="center"><img src="assets/5.jpg" width="100%" alt="BINGE media discovery interface" /></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AnamolAdhikari/binge"><img src="assets/binge-showcase.svg" width="95%" alt="BINGE featured project with browsing and discovery screenshots" /></a>
+</p>
 
 <details>
 <summary><strong>Additional original BINGE screenshots</strong></summary>
