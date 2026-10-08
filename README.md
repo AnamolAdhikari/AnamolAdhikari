@@ -50,7 +50,7 @@ A football application for the full match journey — discovering fixtures, foll
 
 **Stack:** TypeScript · React 19 · Vinext/Vite · Cloudflare Workers · Zod · Node-based tests
 
-<p align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/ninety-premium-showcase.svg" width="96%" alt="NINETY premium matchday engineering showcase" /></a></p>
+<p align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/90.png" width="96%" alt="NINETY live football stadium showcase with laptop and mobile match interfaces" /></a></p>
 
 <!-- NINETY showcase: two existing screenshots, no new binary asset required. -->
 <table>
