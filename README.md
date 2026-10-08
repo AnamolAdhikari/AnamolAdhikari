@@ -112,6 +112,10 @@ A responsive, design-led website for a Savannah gift-shop business, with emphasi
 
 **Focus:** TypeScript · Responsive UI · Accessibility · SEO · Cloud deployment
 
+<p align="center">
+  <a href="https://github.com/AnamolAdhikari/something-for-everyone"><img src="assets/Something.png" width="96%" alt="Something For Everyone cinematic Savannah gift shop website showcase" /></a>
+</p>
+
 [Explore the repository →](https://github.com/AnamolAdhikari/something-for-everyone)
 
 ---
