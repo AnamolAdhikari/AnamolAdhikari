@@ -14,9 +14,7 @@ I build dependable software, thoughtful user experiences, and automated quality 
 
 ## About me
 
-I'm a software engineer focused on **full-stack development, backend services, software testing, and cloud delivery**. I enjoy turning ideas into usable applications, designing resilient integrations, and making software easier to test, operate, and improve.
-
-My approach combines **engineering discipline** with **product thinking**: understandable interfaces, clear system boundaries, meaningful tests, and graceful behavior when something goes wrong.
+I'm a software engineer working across **full-stack development, backend services, SDET, and cloud delivery**. I build user-focused products with clear integration boundaries, automated quality checks, and resilient behavior.
 
 ## Featured work
 
@@ -124,6 +122,9 @@ A responsive, design-led website for a Savannah gift-shop business, with emphasi
 
 <p align="center"><img src="assets/engineering-expertise-premium.svg" width="96%" alt="Engineering expertise across full-stack, SDET, UI UX, security, cloud, and data integrations" /></p>
 
+<details>
+<summary><strong>Explore engineering focus areas</strong></summary>
+
 | Focus | What I work on |
 | --- | --- |
 | **Full-stack & backend** | React, TypeScript, Java, Spring Boot, Python, FastAPI, Node.js, API integrations |
@@ -132,6 +133,8 @@ A responsive, design-led website for a Savannah gift-shop business, with emphasi
 | **Security-minded engineering** | Input validation, safe integration boundaries, authentication-aware application design |
 | **Cloud & DevOps** | Cloudflare Workers, AWS, Google Cloud, Docker, Kubernetes, Terraform, Linux |
 | **Data & integrations** | PostgreSQL, SQLite, Redis, service interfaces, defensive data handling |
+
+</details>
 
 <details>
 <summary><strong>Full technology toolbox</strong></summary>
@@ -162,7 +165,7 @@ The tools below span professional engineering work, personal projects, and conti
 
 ## GitHub activity
 
-Explore my [contributions](https://github.com/AnamolAdhikari?tab=overview) and [repositories](https://github.com/AnamolAdhikari?tab=repositories). I prefer linking to GitHub's native activity view rather than displaying potentially stale third-party statistics.
+[View contributions and activity](https://github.com/AnamolAdhikari?tab=overview) · [Browse all repositories](https://github.com/AnamolAdhikari?tab=repositories)
 
 ## More projects
 
