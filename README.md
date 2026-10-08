@@ -15,13 +15,38 @@ I build reliable web products, automation-heavy systems, and applied AI projects
 
 ## 🚀 Featured projects
 
+### 🎬 [BINGE](https://github.com/AnamolAdhikari/binge) · Active product project
+
+BINGE started with a simple idea: I wanted a movie, TV, and anime experience that felt less like searching through a database and more like opening something I would actually want to use every night. I kept building on that idea — faster discovery, richer title pages, cast exploration, instant search, watch-state persistence, My List, continue watching, profiles, authentication, and a responsive interface that still feels cinematic on a smaller screen.
+
+**Stack:** React 19 · TypeScript · Vite 6 · Cloudflare Workers · TMDB-powered discovery · persistent client state · responsive CSS
+
+> What I enjoy most about BINGE is the product work. Tiny details — how quickly search responds, where you land after opening a title, whether your progress is remembered, how a poster rail moves, and how the interface behaves on mobile — are treated as part of the experience rather than afterthoughts.
+
+<p align="center">
+  <img src="assets/3.jpg" alt="BINGE interface preview" width="88%" />
+</p>
+
+<p align="center">
+  <img src="assets/4.jpg" alt="BINGE browsing experience" width="43%" />
+  <img src="assets/5.jpg" alt="BINGE title experience" width="43%" />
+</p>
+
+<p align="center">
+  <img src="assets/6.jpg" alt="BINGE discovery experience" width="28%" />
+  <img src="assets/7.jpg" alt="BINGE media experience" width="28%" />
+  <img src="assets/8.jpg" alt="BINGE responsive interface" width="28%" />
+</p>
+
+---
+
 ### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · Active development
 
-A modern football matchday application built around the full fixture journey — upcoming, live, finished, and post-match. It focuses on resilient match-state handling, match events, lineups, saved matches, reminders, responsive UX, and graceful failure states.
+NINETY grew out of wanting a football matchday page that actually feels alive. Instead of treating fixtures as rows of sports data, I built around the way a match changes throughout the day: anticipation before kickoff, live action, events and lineups during the match, and a useful finished state afterward. The goal is a fast, focused place to follow the matches I care about without the interface getting in the way.
 
-**Stack:** TypeScript · React 19 · Vite/Vinext · Cloudflare Workers · Zod
+**Stack:** TypeScript · React 19 · Vite/Vinext · Cloudflare Workers · Zod · edge persistence · server-side integrations · responsive CSS · Node-based testing
 
-> Built as a complete product rather than a static sports-data demo: state changes, unreliable dependencies, recovery behavior, and mobile/desktop UX are first-class concerns.
+> The interesting engineering is everything that happens when the happy path breaks. NINETY has to reason about changing match states, stale or incomplete upstream data, unavailable sources, delayed lineups and finished broadcasts. I care just as much about those recovery paths as I do about the polished desktop and mobile experience.
 
 <p align="center">
   <a href="https://github.com/AnamolAdhikari/Ninety">
@@ -46,29 +71,6 @@ An AI-powered ATS resume analysis tool that compares a resume with a job descrip
 </p>
 
 **Stack:** Python · Streamlit · NLP · spaCy · sentence-transformers · Hugging Face
-
----
-
-### 🎬 BINGE · Private product project
-
-A personal movie, TV, and anime discovery experience with a polished streaming-style interface. The project explores content discovery, cast pages, search, continue-watching state, responsive interactions, authentication, and a cleaner viewing experience.
-
-**Focus:** consumer product UX · media discovery · state persistence · responsive design · authentication
-
-<p align="center">
-  <img src="assets/3.jpg" alt="BINGE interface preview" width="88%" />
-</p>
-
-<p align="center">
-  <img src="assets/4.jpg" alt="BINGE browsing experience" width="43%" />
-  <img src="assets/5.jpg" alt="BINGE title experience" width="43%" />
-</p>
-
-<p align="center">
-  <img src="assets/6.jpg" alt="BINGE discovery experience" width="28%" />
-  <img src="assets/7.jpg" alt="BINGE media experience" width="28%" />
-  <img src="assets/8.jpg" alt="BINGE responsive interface" width="28%" />
-</p>
 
 ---
 
