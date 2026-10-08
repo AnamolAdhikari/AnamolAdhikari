@@ -118,50 +118,30 @@ A responsive, design-led website for a Savannah gift-shop business, with emphasi
 
 ---
 
-## Engineering expertise
+## Engineering DNA
 
-<p align="center"><img src="assets/engineering-expertise-premium.svg" width="96%" alt="Engineering expertise across full-stack, SDET, UI UX, security, cloud, and data integrations" /></p>
-
-<details>
-<summary><strong>Explore engineering focus areas</strong></summary>
-
-| Focus | What I work on |
-| --- | --- |
-| **Full-stack & backend** | React, TypeScript, Java, Spring Boot, Python, FastAPI, Node.js, API integrations |
-| **SDET & quality** | Selenium, Playwright, TestNG, Cucumber, Postman, automated checks, regression coverage |
-| **UI/UX engineering** | Responsive layouts, accessible interfaces, interaction design, error and empty states |
-| **Security-minded engineering** | Input validation, safe integration boundaries, authentication-aware application design |
-| **Cloud & DevOps** | Cloudflare Workers, AWS, Google Cloud, Docker, Kubernetes, Terraform, Linux |
-| **Data & integrations** | PostgreSQL, SQLite, Redis, service interfaces, defensive data handling |
-
-</details>
+<p align="center">
+  <img src="assets/engineering-dna.svg" width="96%" alt="Engineering DNA: full-stack, SDET, UI/UX, security, cloud and DevOps, data integrations, and design-build-test-deploy-observe workflow" />
+</p>
 
 <details>
-<summary><strong>Full technology toolbox</strong></summary>
+<summary><strong>Explore the full technology toolbox and engineering approach</strong></summary>
 
 The tools below span professional engineering work, personal projects, and continued learning; they are not all deployed in every featured application.
 
 **Languages & frameworks:** Java · Python · TypeScript · JavaScript · React · Spring Boot · FastAPI · Node.js
 
+**Testing & quality:** Selenium · Playwright · TestNG · Cucumber · Postman · Regression and API checks
+
 **Cloud & infrastructure:** AWS · Google Cloud · Cloudflare · Docker · Kubernetes · Terraform · Linux
 
 **Delivery & observability:** Jenkins · GitHub Actions · Git · Maven · Gradle · Grafana · Datadog
 
-**Testing:** Selenium · Playwright · TestNG · Cucumber · Postman
-
 **Data & development:** PostgreSQL · SQLite · Redis · VS Code · IntelliJ IDEA
 
+**Engineering approach:** Validate external data, automate critical journeys, make failure states understandable, keep changes reviewable, and improve delivery and observability over time.
+
 </details>
-
-## How I engineer software
-
-<p align="center"><img src="assets/engineering-process-premium.svg" width="96%" alt="Engineering process: design, build, test, deploy, observe" /></p>
-
-**Reliability first.** Validate external data, make failures understandable, and treat edge cases as part of the product rather than afterthoughts.
-
-**Test what matters.** Focus automated coverage on critical user journeys, service contracts, and regression risks. Use the right level of testing for the behavior being checked.
-
-**Deliver thoughtfully.** Keep changes reviewable, make deployment repeatable, and improve observability as systems evolve.
 
 ## GitHub activity
 
