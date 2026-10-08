@@ -25,7 +25,7 @@ A modern football matchday application built around the full fixture journey —
 
 <p align="center">
   <a href="https://github.com/AnamolAdhikari/Ninety">
-    <img src="https://raw.githubusercontent.com/AnamolAdhikari/AnamolAdhikari/main/assets/ninety-preview.svg" alt="NINETY football matchday interface" width="88%" />
+    <img src="assets/1.jpg" alt="NINETY football matchday interface" width="92%" />
   </a>
 </p>
 
