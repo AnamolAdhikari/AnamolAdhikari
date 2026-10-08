@@ -1,6 +1,6 @@
 <div align="center">
 
-![Anamol Adhikari — Software Engineer](assets/profile-banner.svg)
+![Anamol Adhikari — Software Engineer](assets/a_wide_cinematic_futuristic_tech_themed_banner_h.png)
 
 Building reliable applications, intuitive interfaces, and automation that makes software easier to ship and maintain.
 
