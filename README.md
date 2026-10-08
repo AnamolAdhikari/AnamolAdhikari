@@ -6,9 +6,9 @@
 
 I build dependable software, thoughtful user experiences, and automated quality checks — from backend integrations to cloud-deployed applications.
 
-[![BINGE](https://img.shields.io/badge/Featured-BINGE-111827?style=for-the-badge)](https://github.com/AnamolAdhikari/binge)
-[![NINETY](https://img.shields.io/badge/Featured-NINETY-1D4ED8?style=for-the-badge)](https://github.com/AnamolAdhikari/Ninety)
-[![Projects](https://img.shields.io/badge/Explore-Repositories-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamolAdhikari?tab=repositories)
+<a href="https://github.com/AnamolAdhikari/binge"><img alt="BINGE · Featured project" src="https://img.shields.io/badge/%E2%96%B6%20BINGE-EXPLORE%20MEDIA-7836C6?style=for-the-badge&labelColor=2B1746" /></a>
+<a href="https://github.com/AnamolAdhikari/Ninety"><img alt="NINETY · Football project" src="https://img.shields.io/badge/%E2%9A%BD%20NINETY-LIVE%20FOOTBALL-165DFF?style=for-the-badge&labelColor=09265E" /></a>
+<a href="https://github.com/AnamolAdhikari?tab=repositories"><img alt="Explore all repositories" src="https://img.shields.io/badge/%E2%97%86%20PROJECTS-ALL%20REPOSITORIES-117C83?style=for-the-badge&labelColor=123A44" /></a>
 
 </div>
 
