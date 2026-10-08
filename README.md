@@ -25,8 +25,12 @@ A modern football matchday application built around the full fixture journey —
 
 <p align="center">
   <a href="https://github.com/AnamolAdhikari/Ninety">
-    <img src="assets/1.jpg" alt="NINETY football matchday interface" width="92%" />
+    <img src="assets/1.jpg" alt="NINETY football matchday interface" width="88%" />
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/2.jpg" alt="NINETY product interface" width="88%" />
 </p>
 
 ---
@@ -50,6 +54,21 @@ An AI-powered ATS resume analysis tool that compares a resume with a job descrip
 A personal movie, TV, and anime discovery experience with a polished streaming-style interface. The project explores content discovery, cast pages, search, continue-watching state, responsive interactions, authentication, and a cleaner viewing experience.
 
 **Focus:** consumer product UX · media discovery · state persistence · responsive design · authentication
+
+<p align="center">
+  <img src="assets/3.jpg" alt="BINGE interface preview" width="88%" />
+</p>
+
+<p align="center">
+  <img src="assets/4.jpg" alt="BINGE browsing experience" width="43%" />
+  <img src="assets/5.jpg" alt="BINGE title experience" width="43%" />
+</p>
+
+<p align="center">
+  <img src="assets/6.jpg" alt="BINGE discovery experience" width="28%" />
+  <img src="assets/7.jpg" alt="BINGE media experience" width="28%" />
+  <img src="assets/8.jpg" alt="BINGE responsive interface" width="28%" />
+</p>
 
 ---
 
