@@ -2,29 +2,29 @@
 
 ![Anamol Adhikari — Software Engineer](assets/a_wide_cinematic_futuristic_tech_themed_banner_h.png)
 
-Building reliable applications, intuitive interfaces, and automation that makes software easier to ship and maintain.
+### Software engineering · Quality engineering · Product design
 
-[![BINGE](https://img.shields.io/badge/Explore-BINGE-111827?style=for-the-badge)](https://github.com/AnamolAdhikari/binge)
-[![NINETY](https://img.shields.io/badge/Explore-NINETY-1D4ED8?style=for-the-badge)](https://github.com/AnamolAdhikari/Ninety)
-[![Projects](https://img.shields.io/badge/All-Projects-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamolAdhikari?tab=repositories)
+I build dependable software, thoughtful user experiences, and automated quality checks — from backend integrations to cloud-deployed applications.
+
+[![BINGE](https://img.shields.io/badge/Featured-BINGE-111827?style=for-the-badge)](https://github.com/AnamolAdhikari/binge)
+[![NINETY](https://img.shields.io/badge/Featured-NINETY-1D4ED8?style=for-the-badge)](https://github.com/AnamolAdhikari/Ninety)
+[![Projects](https://img.shields.io/badge/Explore-Repositories-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamolAdhikari?tab=repositories)
 
 </div>
 
-## About & focus
+## About me
 
-I'm a software engineer working across **full-stack development, backend services, test automation, and cloud deployments**. I enjoy taking products from early prototypes to responsive, reliable applications — with particular attention to edge cases, performance, and maintainability.
+I'm a software engineer focused on **full-stack development, backend services, software testing, and cloud delivery**. I enjoy turning ideas into usable applications, designing resilient integrations, and making software easier to test, operate, and improve.
 
-**What matters to me:** Clear architecture · Practical automation · Resilient integrations · Thoughtful product design
+My approach combines **engineering discipline** with **product thinking**: understandable interfaces, clear system boundaries, meaningful tests, and graceful behavior when something goes wrong.
 
----
+## Featured work
 
-## Featured projects
+### 🎬 [BINGE](https://github.com/AnamolAdhikari/binge) · Media discovery experience
 
-### 🎬 [BINGE](https://github.com/AnamolAdhikari/binge) — Media discovery experience
+A personal movie, TV, and anime experience built around fast discovery, rich title and cast pages, search, personal lists, and continue-watching journeys.
 
-A personal movie, TV, and anime interface designed around fast discovery, rich title and cast pages, search, personal lists, and continue-watching experiences.
-
-**Engineering highlights:** Component-driven UI · Persistent product state · Responsive interactions · Cloudflare deployment
+**Engineering focus:** Component-driven UI · Persistent product state · Responsive interactions · Edge deployment
 
 **Stack:** React 19 · TypeScript · Vite · Cloudflare Workers · TMDB-backed metadata
 
@@ -42,27 +42,36 @@ A personal movie, TV, and anime interface designed around fast discovery, rich t
 </p>
 </details>
 
-### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) — Football matchday experience
+### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · Football matchday experience
 
-A football application built around the full match journey: upcoming fixtures, live match context, events, lineups, and post-match information.
+A football application for the full match journey — discovering fixtures, following live match context, and exploring events, lineups, and post-match information.
 
-**Engineering highlights:** Lifecycle-aware UI · Defensive data handling · Graceful fallback states · Edge deployment
+**Engineering focus:** Match lifecycle states · Defensive data validation · Fallback UX · Edge deployment
 
 **Stack:** TypeScript · React 19 · Vinext/Vite · Cloudflare Workers · Zod · Node-based tests
 
-<p align="center">
-  <a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/1.jpg" width="88%" alt="NINETY football matchday interface" /></a>
-</p>
+<!-- NINETY showcase: two existing screenshots, no new binary asset required. -->
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/AnamolAdhikari/Ninety"><strong>NINETY · LIVE FOOTBALL, BUILT AROUND THE MATCH</strong></a><br />
+      Fixtures &nbsp;·&nbsp; Live context &nbsp;·&nbsp; Events &nbsp;·&nbsp; Lineups
+    </td>
+  </tr>
+  <tr>
+    <td width="62%" align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/1.jpg" width="100%" alt="NINETY main football matchday interface" /></a></td>
+    <td width="38%" align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/2.jpg" width="100%" alt="NINETY match detail interface" /></a></td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>More NINETY screenshots</strong></summary>
-<p align="center">
-  <img src="assets/2.jpg" width="88%" alt="NINETY match experience" />
-</p>
-<p>See the <a href="https://github.com/AnamolAdhikari/Ninety#architecture">architecture</a> and <a href="https://github.com/AnamolAdhikari/Ninety#match-lifecycle">match lifecycle</a> diagrams in the project README.</p>
+<summary><strong>Explore NINETY engineering diagrams</strong></summary>
+
+See the [architecture](https://github.com/AnamolAdhikari/Ninety#architecture) and [match lifecycle](https://github.com/AnamolAdhikari/Ninety#match-lifecycle) diagrams in the project README.
+
 </details>
 
-### 🤖 [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) — Resume analysis with NLP
+### 🤖 [ResuMatch](https://github.com/AnamolAdhikari/ResuMatch) · Resume analysis with NLP
 
 An ATS-oriented resume analysis tool that compares resumes with job descriptions, identifies gaps, and suggests improvements.
 
@@ -72,7 +81,7 @@ An ATS-oriented resume analysis tool that compares resumes with job descriptions
   <a href="https://github.com/AnamolAdhikari/ResuMatch"><img src="https://raw.githubusercontent.com/AnamolAdhikari/ResuMatch/master/assets/resumatch-ui-modern.png" width="82%" alt="ResuMatch resume analysis interface" /></a>
 </p>
 
-### 🛍️ [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone) — Savannah business website
+### 🛍️ [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone) · Savannah business website
 
 A responsive, design-led website for a Savannah gift-shop business, with emphasis on local discovery, accessibility, visual storytelling, and performance.
 
@@ -82,86 +91,59 @@ A responsive, design-led website for a Savannah gift-shop business, with emphasi
 
 ---
 
-## 🧰 Engineering toolbox
+## Engineering expertise
 
-Technologies from my engineering work, personal projects, and continued learning. Not every tool listed is deployed in the featured applications.
+| Focus | What I work on |
+| --- | --- |
+| **Full-stack & backend** | React, TypeScript, Java, Spring Boot, Python, FastAPI, Node.js, API integrations |
+| **SDET & quality** | Selenium, Playwright, TestNG, Cucumber, Postman, automated checks, regression coverage |
+| **UI/UX engineering** | Responsive layouts, accessible interfaces, interaction design, error and empty states |
+| **Security-minded engineering** | Input validation, safe integration boundaries, authentication-aware application design |
+| **Cloud & DevOps** | Cloudflare Workers, AWS, Google Cloud, Docker, Kubernetes, Terraform, Linux |
+| **Data & integrations** | PostgreSQL, SQLite, Redis, service interfaces, defensive data handling |
 
-### Languages & frameworks
+<details>
+<summary><strong>Full technology toolbox</strong></summary>
 
-<div align="center">
+The tools below span professional engineering work, personal projects, and continued learning; they are not all deployed in every featured application.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+**Languages & frameworks:** Java · Python · TypeScript · JavaScript · React · Spring Boot · FastAPI · Node.js
 
-</div>
+**Cloud & infrastructure:** AWS · Google Cloud · Cloudflare · Docker · Kubernetes · Terraform · Linux
 
-### Cloud & infrastructure
+**Delivery & observability:** Jenkins · GitHub Actions · Git · Maven · Gradle · Grafana · Datadog
 
-<div align="center">
+**Testing:** Selenium · Playwright · TestNG · Cucumber · Postman
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=white)
+**Data & development:** PostgreSQL · SQLite · Redis · VS Code · IntelliJ IDEA
 
-</div>
+</details>
 
-### DevOps & delivery
+## How I engineer software
 
-<div align="center">
+```text
+Understand the problem
+        ↓
+Design clear boundaries
+        ↓
+Build & validate
+        ↓
+Automate critical tests
+        ↓
+Deploy & observe
+        ↓
+Improve from feedback
+```
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
+**Reliability first.** Validate external data, make failures understandable, and treat edge cases as part of the product rather than afterthoughts.
 
-</div>
+**Test what matters.** Focus automated coverage on critical user journeys, service contracts, and regression risks. Use the right level of testing for the behavior being checked.
 
-### Testing & quality
+**Deliver thoughtfully.** Keep changes reviewable, make deployment repeatable, and improve observability as systems evolve.
 
-<div align="center">
+## GitHub activity
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-2C3E50?logo=testinglibrary&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-</div>
-
-### Data & tooling
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
-
-</div>
-
----
-
-## Engineering approach
-
-**Design for real-world behavior.** Keep integration boundaries clear, validate data, test critical paths, and make failures understandable. Use CI/CD and observability to improve the system as it evolves.
-
-`Plan → Build → Test → Deploy → Observe → Improve`
-
----
+Explore my [contributions](https://github.com/AnamolAdhikari?tab=overview) and [repositories](https://github.com/AnamolAdhikari?tab=repositories). I prefer linking to GitHub's native activity view rather than displaying potentially stale third-party statistics.
 
 ## More projects
 
@@ -177,8 +159,8 @@ Technologies from my engineering work, personal projects, and continued learning
 
 ---
 
-**Build useful things. Test what matters. Keep improving.**
+### Build useful things. Test what matters. Keep improving.
 
-[All repositories](https://github.com/AnamolAdhikari?tab=repositories)
+[**BINGE**](https://github.com/AnamolAdhikari/binge) · [**NINETY**](https://github.com/AnamolAdhikari/Ninety) · [**All repositories**](https://github.com/AnamolAdhikari?tab=repositories)
 
 </div>
