@@ -33,13 +33,27 @@ A personal movie, TV, and anime experience built around fast discovery, rich tit
 </p>
 
 <details>
-<summary><strong>Additional original BINGE screenshots</strong></summary>
+<summary><strong>Additional BINGE screenshots — full-size gallery</strong></summary>
+
 <p align="center">
-  <img src="assets/3.jpg" width="88%" alt="Original BINGE application screenshot" />
-  <img src="assets/6.jpg" width="28%" alt="BINGE discovery interface" />
-  <img src="assets/7.jpg" width="28%" alt="BINGE media interface" />
-  <img src="assets/8.jpg" width="28%" alt="BINGE responsive interface" />
+  <img src="assets/3.jpg" width="95%" alt="BINGE original application screenshot" />
 </p>
+<p align="center">
+  <img src="assets/4.jpg" width="95%" alt="BINGE application screenshot 4" />
+</p>
+<p align="center">
+  <img src="assets/5.jpg" width="95%" alt="BINGE application screenshot 5" />
+</p>
+<p align="center">
+  <img src="assets/6.jpg" width="95%" alt="BINGE discovery interface" />
+</p>
+<p align="center">
+  <img src="assets/7.jpg" width="95%" alt="BINGE media interface" />
+</p>
+<p align="center">
+  <img src="assets/8.jpg" width="95%" alt="BINGE responsive interface" />
+</p>
+
 </details>
 
 ### ⚽ [NINETY](https://github.com/AnamolAdhikari/Ninety) · Football matchday experience
@@ -52,19 +66,17 @@ A football application for the full match journey — discovering fixtures, foll
 
 <p align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/90.png" width="96%" alt="NINETY live football stadium showcase with laptop and mobile match interfaces" /></a></p>
 
-<!-- NINETY showcase: two existing screenshots, no new binary asset required. -->
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/AnamolAdhikari/Ninety"><strong>NINETY · LIVE FOOTBALL, BUILT AROUND THE MATCH</strong></a><br />
-      Fixtures &nbsp;·&nbsp; Live context &nbsp;·&nbsp; Events &nbsp;·&nbsp; Lineups
-    </td>
-  </tr>
-  <tr>
-    <td width="62%" align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/1.jpg" width="100%" alt="NINETY main football matchday interface" /></a></td>
-    <td width="38%" align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/2.jpg" width="100%" alt="NINETY match detail interface" /></a></td>
-  </tr>
-</table>
+<details>
+<summary><strong>Additional NINETY screenshots — full-size gallery</strong></summary>
+
+<p align="center">
+  <img src="assets/1.jpg" width="95%" alt="NINETY sign-in interface" />
+</p>
+<p align="center">
+  <img src="assets/2.jpg" width="95%" alt="NINETY football matchday interface" />
+</p>
+
+</details>
 
 <details>
 <summary><strong>Explore NINETY engineering diagrams</strong></summary>
