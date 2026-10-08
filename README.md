@@ -92,8 +92,19 @@ An ATS-oriented resume analysis tool that compares resumes with job descriptions
 **Stack:** Python · Streamlit · NLP · spaCy · sentence-transformers
 
 <p align="center">
-  <a href="https://github.com/AnamolAdhikari/ResuMatch"><img src="https://raw.githubusercontent.com/AnamolAdhikari/ResuMatch/master/assets/resumatch-ui-modern.png" width="82%" alt="ResuMatch resume analysis interface" /></a>
+  <a href="https://github.com/AnamolAdhikari/ResuMatch"><img src="assets/Resumatch.png" width="96%" alt="ResuMatch cinematic concept banner illustrating resume analysis and job matching" /></a>
 </p>
+
+<details>
+<summary><strong>Original ResuMatch application screenshot</strong></summary>
+
+<p align="center">
+  <a href="https://github.com/AnamolAdhikari/ResuMatch"><img src="https://raw.githubusercontent.com/AnamolAdhikari/ResuMatch/master/assets/resumatch-ui-modern.png" width="95%" alt="Original ResuMatch resume analysis interface" /></a>
+</p>
+
+</details>
+
+<sub>The cinematic banner is illustrative; features, metrics, and technologies pictured are not necessarily implemented in the repository.</sub>
 
 ### 🛍️ [Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone) · Savannah business website
 
