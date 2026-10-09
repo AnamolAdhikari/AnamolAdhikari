@@ -143,6 +143,17 @@ The tools below span professional engineering work, personal projects, and conti
 
 </details>
 
+## Engineering highlights
+
+Beyond the interfaces, these projects demonstrate how I approach building and maintaining software:
+
+- **[Lifecycle-aware application design · NINETY](https://github.com/AnamolAdhikari/Ninety#match-lifecycle)** — Models upcoming, live, and completed matches as distinct states, with defensive handling of delayed or incomplete data.
+- **[Architecture & integration boundaries · NINETY](https://github.com/AnamolAdhikari/Ninety#architecture)** — Documents the separation between the user interface, application logic, and external integrations.
+- **[Product state & cloud delivery · BINGE](https://github.com/AnamolAdhikari/binge)** — Uses React and TypeScript with Cloudflare deployment and documented profile-aware viewing state.
+- **[Automated build checks · Something For Everyone](https://github.com/AnamolAdhikari/something-for-everyone/blob/main/.github/workflows/ci.yml)** — GitHub Actions workflow configured for linting, TypeScript checks, and production builds.
+
+<sub>Highlights describe repository-documented implementations and configured workflows; they do not imply unverified test coverage or deployment success.</sub>
+
 ## GitHub activity
 
 [View contributions and activity](https://github.com/AnamolAdhikari?tab=overview) · [Browse all repositories](https://github.com/AnamolAdhikari?tab=repositories)
