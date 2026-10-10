@@ -65,13 +65,16 @@ A football application for the full match journey — discovering fixtures, foll
 <p align="center"><a href="https://github.com/AnamolAdhikari/Ninety"><img src="assets/90.png" width="96%" alt="NINETY live football stadium showcase with laptop and mobile match interfaces" /></a></p>
 
 <details>
-<summary><strong>Additional NINETY screenshots — full-size gallery</strong></summary>
+<summary><strong>Additional NINETY screenshots — gallery</strong></summary>
 
 <p align="center">
-  <img src="assets/1.jpg" width="95%" alt="NINETY sign-in interface" />
+  <img src="assets/1.jpg" width="47%" alt="NINETY sign-in interface" />
+  <img src="assets/2.jpg" width="47%" alt="NINETY football matchday interface" />
 </p>
+
 <p align="center">
-  <img src="assets/2.jpg" width="95%" alt="NINETY football matchday interface" />
+  <img src="https://raw.githubusercontent.com/AnamolAdhikari/Ninety/main/public/screenshots/ninety-live.png" width="47%" alt="NINETY live match experience" />
+  <img src="https://raw.githubusercontent.com/AnamolAdhikari/Ninety/main/public/screenshots/ninety-watch.png" width="47%" alt="NINETY watch experience" />
 </p>
 
 </details>
